@@ -13,36 +13,27 @@ Ce dépôt couvre les fondamentaux des bases de données relationnelles : modél
 
 ---
 
-## 📚 Plan du cours
+## 📚 Supports de cours
 
-| # | Chapitre | Lien |
-|---|----------|------|
-| 1 | Introduction aux bases de données | [cours/Introduction aux BD.md](cours/Introduction%20aux%20BD.md) |
-| 2 | SGBD & Modélisation | [cours/2-introduction_SGBD_Modelisation.md](cours/2-introduction_SGBD_Modelisation.md) |
-| 3 | Dépendances fonctionnelles & Normalisation | [cours/3-Dépendance_fonctionnelle_&_Normalisation.md](cours/3-Dépendance_fonctionnelle_%26_Normalisation.md) |
-| 4 | Du MCD au MLD | [cours/4-passage_MCD_MLD.md](cours/4-passage_MCD_MLD.md) |
-| 5 | Algèbre relationnelle | [cours/5-Algebre_relationnel.md](cours/5-Algebre_relationnel.md) |
-| 6 | SQL — L'essentiel | [cours/sql_l_essentiel.md](cours/sql_l_essentiel.md) |
+| Support | Lien |
+|---------|------|
+| Introduction aux Bases de Données | [📄 cours/Introduction_BD.pdf](cours/Introduction_BD.pdf) |
+| SQL — L'essentiel | [📄 cours/sql_l_essentiel.pdf](cours/sql_l_essentiel.pdf) |
 
 ---
 
 ## 🏋️ Exercices & TPs
 
-| Exercice | Description |
-|----------|-------------|
-| [TP SQL 1](exercices/atelier_sgbd_sql1.md) | Requêtes SQL de base |
-| [TP SQL 2](exercices/atelier_sgbd_sql2.md) | Requêtes SQL avancées |
-| [Dépendances fonctionnelles](exercices/exercice_depend_fonct.md) | Exercices sur les DF |
-| [Exercices MLD](exercices/exercices_MLD.md) | Passage MCD → MLD |
-| [Algèbre relationnelle](exercices/serie1Algebre_rel.md) | Série d'exercices |
-| [Exercices SQL variés](exercices/exos_sgbd.md) | Recueil d'exercices SQL |
-| [TP Entité-Association](exercices/tp2_E-A.md) | Modélisation E-A |
-
----
-
-## ✅ Corrections
-
-Les corrigés sont dans [`corrections/`](corrections/).
+| Exercice | Lien |
+|----------|------|
+| TP SQL 1 — Requêtes de base | [📄 exercices/atelier_sgbd_sql1.pdf](exercices/atelier_sgbd_sql1.pdf) |
+| TP SQL 2 — Requêtes avancées | [📄 exercices/atelier_sgbd_sql2.pdf](exercices/atelier_sgbd_sql2.pdf) |
+| Dépendances fonctionnelles | [📄 exercices/exercice_depend_fonct.pdf](exercices/exercice_depend_fonct.pdf) |
+| Exercices MLD | [📄 exercices/exercices_MLD.pdf](exercices/exercices_MLD.pdf) |
+| Algèbre relationnelle | [📄 exercices/serie1Algebre_rel.pdf](exercices/serie1Algebre_rel.pdf) |
+| Exercices SQL variés | [📄 exercices/exos_sgbd.pdf](exercices/exos_sgbd.pdf) |
+| TP Entité-Association | [📄 exercices/tp2_E-A.pdf](exercices/tp2_E-A.pdf) |
+| Atelier MCD-MLD-SQL | [📄 exercices/Atelier_mcd_mld_sql.pdf](exercices/Atelier_mcd_mld_sql.pdf) |
 
 ---
 
@@ -50,9 +41,10 @@ Les corrigés sont dans [`corrections/`](corrections/).
 
 ```
 CoursBD_SGBD/
-├── cours/          → Chapitres du cours (.md)
-├── exercices/      → TPs, séries et ateliers
-└── corrections/    → Corrigés des exercices
+├── cours/          → Supports de cours (PDF)
+├── exercices/      → TPs, séries et ateliers (PDF)
+├── corrections/    → Corrigés (PDF)
+└── assets/         → Images et logos
 ```
 
 ---
