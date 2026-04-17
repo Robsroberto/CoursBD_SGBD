@@ -15,10 +15,14 @@ Ce dépôt couvre les fondamentaux des bases de données relationnelles : modél
 
 ## 📚 Supports de cours
 
-| Support | Lien |
-|---------|------|
-| Introduction aux Bases de Données | [📄 cours/Introduction_BD.pdf](cours/Introduction_BD.pdf) |
-| SQL — L'essentiel | [📄 cours/sql_l_essentiel.pdf](cours/sql_l_essentiel.pdf) |
+| # | Chapitre | Lien |
+|---|----------|------|
+| 1 | Introduction aux Bases de Données | [📄 cours/1-Introduction aux BD.pdf](cours/1-Introduction%20aux%20BD.pdf) |
+| 2 | Introduction au SGBD & Modélisation | [📄 cours/2-introduction_SGBD_Modelisation.pdf](cours/2-introduction_SGBD_Modelisation.pdf) |
+| 3 | Dépendances fonctionnelles & Normalisation | [📄 cours/3-Dépendance_fonctionnelle_&_Normalisation.pdf](cours/3-D%C3%A9pendance_fonctionnelle_%26_Normalisation.pdf) |
+| 4 | Passage MCD → MLD | [📄 cours/4-passage_MCD_MLD.pdf](cours/4-passage_MCD_MLD.pdf) |
+| 5 | Algèbre relationnelle | [📄 cours/5-Algebre_relationnel.pdf](cours/5-Algebre_relationnel.pdf) |
+| + | SQL — L'essentiel | [📄 cours/sql_l_essentiel.pdf](cours/sql_l_essentiel.pdf) |
 
 ---
 
