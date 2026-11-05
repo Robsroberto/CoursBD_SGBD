@@ -13,6 +13,20 @@ Ce dépôt couvre les fondamentaux des bases de données relationnelles : modél
 
 ---
 
+## 🎓 Parcours L1 — Base de données 1
+
+Le parcours [BDD1_L1](BDD1_L1/README.md) rassemble le cours actualisé de L1 dans une arborescence distincte : chapitres, ateliers, mini-projet, PDF et scripts de données de départ. Il complète les supports historiques ci-dessous, qui restent inchangés.
+
+| Ressource | Accès |
+|---|---|
+| Présentation et index du parcours | [BDD1_L1/README.md](BDD1_L1/README.md) |
+| Chapitres Markdown et PDF | [Chapitres](BDD1_L1/chapitres/) · [PDF](BDD1_L1/pdf/) |
+| Ateliers et mini-projet | [Ateliers](BDD1_L1/ateliers/) · [PDF](BDD1_L1/pdf/) |
+| Scripts et données de départ | [Fournis](BDD1_L1/fournis/) |
+| Images du cours | [Images](BDD1_L1/images/) |
+
+---
+
 ## 📚 Supports de cours
 
 | # | Chapitre | Lien |
@@ -48,7 +62,8 @@ CoursBD_SGBD/
 ├── cours/          → Supports de cours (PDF)
 ├── exercices/      → TPs, séries et ateliers (PDF)
 ├── corrections/    → Corrigés (PDF)
-└── assets/         → Images et logos
+├── assets/         → Images et logos
+└── BDD1_L1/        → Nouveau parcours étudiant L1 (cours, ateliers, données)
 ```
 
 ---
